@@ -1,7 +1,7 @@
 
 # About
 
-ALG-Welcome built using wails framework with Reactjs and Go
+helwan-Welcome built using wails framework with Reactjs and Go
 
 # Pre-Installation
 
