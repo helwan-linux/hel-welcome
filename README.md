@@ -1,4 +1,3 @@
-![ALG](frontend/src/assets/images/alg-welcome.png)
 
 # About
 
